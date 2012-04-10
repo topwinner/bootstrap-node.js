@@ -136,7 +136,6 @@ body {
   font-size: 13px;
   line-height: 18px;
   color: #333333;
-  background-color: #ffffff;
 }
 a {
   color: #0088cc;
@@ -456,7 +455,7 @@ dd {
 hr {
   margin: 18px 0;
   border: 0;
-  border-top: 1px solid #eeeeee;
+  border-top: 1px solid #000000;
   border-bottom: 1px solid #ffffff;
 }
 strong {
