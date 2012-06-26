@@ -1,8 +1,10 @@
 {
   "name": "node-example",
-  "version": "0.0.1",
+  "author": "Erik Hvattum",
+  "version": "0.0.2",
   "dependencies": {
-    
-    "express": "2.5.0"
-  }
+	"express": "2.x.x"
+  },
+  "engine": "node 0.8.0"
+  
 }
